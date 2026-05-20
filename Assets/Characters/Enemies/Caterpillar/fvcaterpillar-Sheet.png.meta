@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 65b3453122eba284586c5f389b067f72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2955675783384958057
+    second: fvcaterpillar-Sheet_0
+  - first:
+      213: 6973794518281923053
+    second: fvcaterpillar-Sheet_1
+  - first:
+      213: -751721915119041947
+    second: fvcaterpillar-Sheet_2
+  - first:
+      213: -7886657066975167235
+    second: fvcaterpillar-Sheet_3
+  - first:
+      213: -3885697428931080781
+    second: fvcaterpillar-Sheet_4
+  - first:
+      213: -3006801577006742581
+    second: fvcaterpillar-Sheet_5
+  - first:
+      213: 8633306187100601582
+    second: fvcaterpillar-Sheet_6
+  - first:
+      213: 6184919166582008342
+    second: fvcaterpillar-Sheet_7
+  - first:
+      213: -3595567780393517874
+    second: fvcaterpillar-Sheet_8
+  - first:
+      213: -6333400638799351541
+    second: fvcaterpillar-Sheet_9
+  - first:
+      213: 2481079640127786421
+    second: fvcaterpillar-Sheet_10
+  - first:
+      213: 8881778836154607062
+    second: fvcaterpillar-Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b7d1ce8845bf6d0800000000000000
+      internalID: -2955675783384958057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9a2c66a25e7c060800000000000000
+      internalID: 6973794518281923053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5620477a6e85195f0800000000000000
+      internalID: -751721915119041947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcfe91de27fc8290800000000000000
+      internalID: -7886657066975167235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 15
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd0ae396ca331ac0800000000000000
+      internalID: -3885697428931080781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3cd6c75e1b546d0800000000000000
+      internalID: -3006801577006742581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 15
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec30576c3aafc770800000000000000
+      internalID: 8633306187100601582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a20a0863f35d550800000000000000
+      internalID: 6184919166582008342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 15
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccfdc3672af91ec0800000000000000
+      internalID: -3595567780393517874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01f120ccad3b18a0800000000000000
+      internalID: -6333400638799351541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 15
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd454199c09e6220800000000000000
+      internalID: 2481079640127786421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fvcaterpillar-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5e3963bca624b70800000000000000
+      internalID: 8881778836154607062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fvcaterpillar-Sheet_0: -2955675783384958057
+      fvcaterpillar-Sheet_1: 6973794518281923053
+      fvcaterpillar-Sheet_10: 2481079640127786421
+      fvcaterpillar-Sheet_11: 8881778836154607062
+      fvcaterpillar-Sheet_2: -751721915119041947
+      fvcaterpillar-Sheet_3: -7886657066975167235
+      fvcaterpillar-Sheet_4: -3885697428931080781
+      fvcaterpillar-Sheet_5: -3006801577006742581
+      fvcaterpillar-Sheet_6: 8633306187100601582
+      fvcaterpillar-Sheet_7: 6184919166582008342
+      fvcaterpillar-Sheet_8: -3595567780393517874
+      fvcaterpillar-Sheet_9: -6333400638799351541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

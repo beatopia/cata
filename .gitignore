@@ -1,0 +1,115 @@
+# === Unity Generated Folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# === Unity Package Cache ===
+Library/PackageCache/
+Library/ArtifactDB
+
+# === Unity Build Outputs ===
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.x86
+*.x86_64
+*.so
+*.dll
+*.dylib
+*_Data/
+*.symbols.zip
+*.debugsymbols
+
+# Specific old Linux build files
+catalinuxbuild
+cata_serverlinuxbuild
+cata_serverlinuxbuild.x86_64
+cata_serverlinuxbuild_Data/
+UnityPlayer.so
+libdecor-0.so.0
+libdecor-cairo.so
+
+# === Local Test / Throwaway Folders ===
+for test/
+test/
+tests/build/
+playtest/
+playtests/
+
+# === OS Files ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# === IDE / Editor Files ===
+.vs/
+.vscode/
+.idea/
+.gradle/
+
+# === Visual Studio / C# Project Metadata ===
+*.sln
+*.csproj
+*.user
+*.userprefs
+*.pidb
+*.unityproj
+*.booproj
+*.tmp
+*.svd
+*.pdb
+*.mdb
+*.VC.db
+*.opendb
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.DotSettings.user
+
+# === JetBrains Rider ===
+/Assets/Plugins/Editor/JetBrains*
+
+# === Asset Store Tools ===
+# /Assets/AssetStoreTools*
+
+# === Crash + Debug ===
+sysinfo.txt
+crashlytics-build.properties
+*.stackdump
+
+# === Logs ===
+*.log
+
+# === Packed Addressables ===
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/StreamingAssets/aa.meta
+/Assets/StreamingAssets/aa/*
+
+# === Upgrade / Generated Reports ===
+UpgradeLog.htm
+UpgradeLog*.htm
+
+# === Git LFS Candidates ===
+# These are not ignored. Track them with Git LFS instead if needed:
+# *.psd
+# *.fbx
+# *.wav
+# *.mp3
+# *.tga
+# *.png
+# *.jpg
+# *.mp4
+# *.mov

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eca33268f3593a4496d7cce0abfac02, type: 3}
+  m_Name: BackedUp
+  m_EditorClassIdentifier: 
+  cardId: backed_up
+  title: Backed Up
+  description: Increases your maximum bullets to 3
+  frontImage: {fileID: 1670819692581929934, guid: 43b0ada8a8c223f4abe53609d485645c, type: 3}
+  rarity: 0
+  effectId: backed_up

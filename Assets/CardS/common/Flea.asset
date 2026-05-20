@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eca33268f3593a4496d7cce0abfac02, type: 3}
+  m_Name: Flea
+  m_EditorClassIdentifier: 
+  cardId: 1
+  title: comm
+  description: 
+  frontImage: {fileID: 6524962672524049112, guid: 5b9bcd0d09f4de94cbd13c9a4f65cdaa, type: 3}
+  rarity: 0
+  effectId: 1

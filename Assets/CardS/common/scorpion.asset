@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eca33268f3593a4496d7cce0abfac02, type: 3}
+  m_Name: scorpion
+  m_EditorClassIdentifier: 
+  cardId: scorpioncat
+  title: Scorpion-Cat
+  description: +25% Damage
+  frontImage: {fileID: -8144738669733041750, guid: 798507f1593b63a47b386405dfa9f086, type: 3}
+  rarity: 0
+  effectId: scorpioncat

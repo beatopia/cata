@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/map1.unity
+    guid: 602066d82b22b1e4ba9c08ddfaf45b30
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 5e12cc35e80fd56419a85acdb62d887d, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: d3631935e78c9e94fa803684c410f9bc, type: 3}
+  m_UseUCBPForAssetBundles: 0

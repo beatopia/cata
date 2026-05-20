@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eca33268f3593a4496d7cce0abfac02, type: 3}
+  m_Name: turtle
+  m_EditorClassIdentifier: 
+  cardId: turtle_cat
+  title: Turtle Cat
+  description: Increases your health by 50, but reduces your movement speed by 30%
+  frontImage: {fileID: -2011431160733476155, guid: 9a55702bfde4761498577c520b303451, type: 3}
+  rarity: 0
+  effectId: turtle_cat

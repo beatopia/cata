@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eca33268f3593a4496d7cce0abfac02, type: 3}
+  m_Name: Card2Unc 5
+  m_EditorClassIdentifier: 
+  cardId: 2
+  title: 2
+  description: 
+  frontImage: {fileID: -8607975364583432517, guid: 98f8e19f17aa83f4ab435d5038f32db2, type: 3}
+  rarity: 1
+  effectId: 2
