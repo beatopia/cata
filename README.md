@@ -24,6 +24,8 @@ Cata earned **1st Place - Game of the Year (2025)** among all Da Vinci CS Pathwa
 
 **Project Lead / Unity Developer**
 
+P.S. The project was previously named "Fang," which may be reflected in some of the commit history and codebase.
+
 - Founded and led a 6-person team
 - Managed Agile sprints and task tracking in Jira
 - Introduced Cursor to improve iteration speed
